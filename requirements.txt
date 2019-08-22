@@ -1,0 +1,8 @@
+wordcloud
+numpy
+six
+nltk
+python-igraph
+pandas
+matplotlib
+pillow
