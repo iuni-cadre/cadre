@@ -1,0 +1,232 @@
+{
+  "build": "py37h14c3975_1000",
+  "build_number": 1000,
+  "channel": "https://conda.anaconda.org/conda-forge/linux-64",
+  "constrains": [],
+  "depends": [
+    "libgcc-ng >=7.3.0",
+    "numpy",
+    "pillow",
+    "python >=3.7,<3.8.0a0"
+  ],
+  "extracted_package_dir": "/opt/conda/pkgs/wordcloud-1.5.0-py37h14c3975_1000",
+  "features": "",
+  "files": [
+    "bin/wordcloud_cli",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/INSTALLER",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/METADATA",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/RECORD",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/WHEEL",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/entry_points.txt",
+    "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/top_level.txt",
+    "lib/python3.7/site-packages/wordcloud/DroidSansMono.ttf",
+    "lib/python3.7/site-packages/wordcloud/__init__.py",
+    "lib/python3.7/site-packages/wordcloud/__main__.py",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/__init__.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/__main__.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/_version.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/color_from_image.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/tokenization.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/wordcloud.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/__pycache__/wordcloud_cli.cpython-37.pyc",
+    "lib/python3.7/site-packages/wordcloud/_version.py",
+    "lib/python3.7/site-packages/wordcloud/color_from_image.py",
+    "lib/python3.7/site-packages/wordcloud/query_integral_image.cpython-37m-x86_64-linux-gnu.so",
+    "lib/python3.7/site-packages/wordcloud/stopwords",
+    "lib/python3.7/site-packages/wordcloud/tokenization.py",
+    "lib/python3.7/site-packages/wordcloud/wordcloud.py",
+    "lib/python3.7/site-packages/wordcloud/wordcloud_cli.py"
+  ],
+  "fn": "wordcloud-1.5.0-py37h14c3975_1000.tar.bz2",
+  "license": "MIT",
+  "link": {
+    "source": "/opt/conda/pkgs/wordcloud-1.5.0-py37h14c3975_1000",
+    "type": 1
+  },
+  "md5": "27ace45363390b271789fc7bf922837e",
+  "name": "wordcloud",
+  "package_tarball_full_path": "/opt/conda/pkgs/wordcloud-1.5.0-py37h14c3975_1000.tar.bz2",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "bin/wordcloud_cli",
+        "file_mode": "text",
+        "path_type": "hardlink",
+        "prefix_placeholder": "/opt/anaconda1anaconda2anaconda3",
+        "sha256": "622f9f1a6b9689e264ba3fdae78501ca94613bb6a5677e4a9662cee6a0618155",
+        "sha256_in_prefix": "b7f4ebe20dbb947b2512c33ddb6e5d98b2f9c1b8155d52052baa1c9c71912911",
+        "size_in_bytes": 248
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "dea63ccfcc065052d1a91bc8f2e06a3ec2575a550d7a3c1cb1eaea4b7bee4799",
+        "sha256_in_prefix": "dea63ccfcc065052d1a91bc8f2e06a3ec2575a550d7a3c1cb1eaea4b7bee4799",
+        "size_in_bytes": 4226
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "695f2e8ddb7ff8e20aa59f45af6699c81491232edf61be7f808f5959a56ea28b",
+        "sha256_in_prefix": "695f2e8ddb7ff8e20aa59f45af6699c81491232edf61be7f808f5959a56ea28b",
+        "size_in_bytes": 1798
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "330dc0c30cf5ce7524aab9d78ddc830d719caaa305540495f2151c5de989ccdf",
+        "sha256_in_prefix": "330dc0c30cf5ce7524aab9d78ddc830d719caaa305540495f2151c5de989ccdf",
+        "size_in_bytes": 104
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "6bb676920d008db0e6e570a76f863eb48e58abfe33d8e378cae0a05c4ae150b1",
+        "sha256_in_prefix": "6bb676920d008db0e6e570a76f863eb48e58abfe33d8e378cae0a05c4ae150b1",
+        "size_in_bytes": 59
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud-1.5.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "4ab371127d59c092b85e7a9abda123a650cb59b5beb4cb9001e6e8dd47e3d9f3",
+        "sha256_in_prefix": "4ab371127d59c092b85e7a9abda123a650cb59b5beb4cb9001e6e8dd47e3d9f3",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/DroidSansMono.ttf",
+        "path_type": "hardlink",
+        "sha256": "12b552de765dc1265d64f9f5566649930dde4dba07da0251d9f92801e70a1047",
+        "sha256_in_prefix": "12b552de765dc1265d64f9f5566649930dde4dba07da0251d9f92801e70a1047",
+        "size_in_bytes": 119380
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a20c49f99dc842690db0d4ef4f3ce8072c40f3a40ade1077e39de9041ba6781a",
+        "sha256_in_prefix": "a20c49f99dc842690db0d4ef4f3ce8072c40f3a40ade1077e39de9041ba6781a",
+        "size_in_bytes": 399
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__main__.py",
+        "path_type": "hardlink",
+        "sha256": "fb4d52dbfbf918832b1b7275069edf8429b8d18c6c1c8cf05578dae6c576d518",
+        "sha256_in_prefix": "fb4d52dbfbf918832b1b7275069edf8429b8d18c6c1c8cf05578dae6c576d518",
+        "size_in_bytes": 857
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/__init__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "2f21c87a0d89ebd6cfab4bb36df5c409df9610d19a9260bcdd0d57de0ff48fec",
+        "sha256_in_prefix": "2f21c87a0d89ebd6cfab4bb36df5c409df9610d19a9260bcdd0d57de0ff48fec",
+        "size_in_bytes": 463
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/__main__.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "25fca40046832eba89e3ea70ef51ab427e11d07ec28fc370e2dee1f7919bd191",
+        "sha256_in_prefix": "25fca40046832eba89e3ea70ef51ab427e11d07ec28fc370e2dee1f7919bd191",
+        "size_in_bytes": 1015
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/_version.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "e76ac8f4fa9c4ec352ccd75a2bf4377fd369001b6a1129e1df731b912d55c6d1",
+        "sha256_in_prefix": "e76ac8f4fa9c4ec352ccd75a2bf4377fd369001b6a1129e1df731b912d55c6d1",
+        "size_in_bytes": 456
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/color_from_image.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "af20ef6bfaf842bbc8f2a7f2a0a8401752fe6fb3746877b810a86e1daed889be",
+        "sha256_in_prefix": "af20ef6bfaf842bbc8f2a7f2a0a8401752fe6fb3746877b810a86e1daed889be",
+        "size_in_bytes": 2359
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/tokenization.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "58d7e3a854d10ef92d2c25eb5f4e9984ff614e43ed970fa5a41098aaa70f6fc0",
+        "sha256_in_prefix": "58d7e3a854d10ef92d2c25eb5f4e9984ff614e43ed970fa5a41098aaa70f6fc0",
+        "size_in_bytes": 3398
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/wordcloud.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "761e50f8f2d250cf19be84aedf6fe28592affd29857a76006979933c685db81a",
+        "sha256_in_prefix": "761e50f8f2d250cf19be84aedf6fe28592affd29857a76006979933c685db81a",
+        "size_in_bytes": 22581
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/__pycache__/wordcloud_cli.cpython-37.pyc",
+        "path_type": "hardlink",
+        "sha256": "0c1fe50639dc51c8231121ebe0321b2a1b13c06c472a499265891e3813192036",
+        "sha256_in_prefix": "0c1fe50639dc51c8231121ebe0321b2a1b13c06c472a499265891e3813192036",
+        "size_in_bytes": 6382
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/_version.py",
+        "path_type": "hardlink",
+        "sha256": "b73e58adf8cb45677735d7422a1561814ac31e5bca7712f8641e7de2e566486b",
+        "sha256_in_prefix": "b73e58adf8cb45677735d7422a1561814ac31e5bca7712f8641e7de2e566486b",
+        "size_in_bytes": 497
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/color_from_image.py",
+        "path_type": "hardlink",
+        "sha256": "5d97217c67ee9c7466ccb453a3e1930158bf5943ef0d4ec921b891f217cd9565",
+        "sha256_in_prefix": "5d97217c67ee9c7466ccb453a3e1930158bf5943ef0d4ec921b891f217cd9565",
+        "size_in_bytes": 2621
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/query_integral_image.cpython-37m-x86_64-linux-gnu.so",
+        "path_type": "hardlink",
+        "sha256": "40fe35e3c99c51f2ef229c55a36eb6e7e3f2295911f48824dedf8bed11cc1f56",
+        "sha256_in_prefix": "40fe35e3c99c51f2ef229c55a36eb6e7e3f2295911f48824dedf8bed11cc1f56",
+        "size_in_bytes": 194288
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/stopwords",
+        "path_type": "hardlink",
+        "sha256": "15d567c343251bab4e3cb51bee61d6d11d9c07e2517a40e0604e5c3822e97b90",
+        "sha256_in_prefix": "15d567c343251bab4e3cb51bee61d6d11d9c07e2517a40e0604e5c3822e97b90",
+        "size_in_bytes": 1034
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/tokenization.py",
+        "path_type": "hardlink",
+        "sha256": "d8d446b69c4e6b7fd1d6318db9867591fb3b28d3b3d57ed0219650860d06ab6b",
+        "sha256_in_prefix": "d8d446b69c4e6b7fd1d6318db9867591fb3b28d3b3d57ed0219650860d06ab6b",
+        "size_in_bytes": 5038
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/wordcloud.py",
+        "path_type": "hardlink",
+        "sha256": "870d557e2237b4c883ba75ee4f5f793cfa0ac85b28968648a4019bae5c2779c9",
+        "sha256_in_prefix": "870d557e2237b4c883ba75ee4f5f793cfa0ac85b28968648a4019bae5c2779c9",
+        "size_in_bytes": 28353
+      },
+      {
+        "_path": "lib/python3.7/site-packages/wordcloud/wordcloud_cli.py",
+        "path_type": "hardlink",
+        "sha256": "e1029ffffcd6e62b0b18a8f8066e44863d1b28c01a3b85e258f8aa4277e35721",
+        "sha256_in_prefix": "e1029ffffcd6e62b0b18a8f8066e44863d1b28c01a3b85e258f8aa4277e35721",
+        "size_in_bytes": 6801
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "wordcloud",
+  "sha256": "f99dc3a169fc33bd9fe75a99efa6803444dea0b5938bf99f30a2e18200933f23",
+  "size": 187087,
+  "subdir": "linux-64",
+  "timestamp": 1540559971089,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/linux-64/wordcloud-1.5.0-py37h14c3975_1000.tar.bz2",
+  "version": "1.5.0"
+}
