@@ -27,9 +27,9 @@ MAGColumnTypes = {
 }
 
 #def MAGQuery2xnet(queryID):
-queryID = "99d71a33-7805-4bff-be2a-8c6c78381688"
-nodesData = pd.read_csv("../query-results/%s.csv"%queryID, dtype=MAGColumnTypes)
-edgesData = pd.read_csv("../query-results/%s_edges.csv"%queryID)
+queryID = "9994a1e1-85a8-46c7-888e-409405493088"
+nodesData = pd.read_csv("data/%s.csv"%queryID, dtype=MAGColumnTypes)
+edgesData = pd.read_csv("data/%s_edges.csv"%queryID)
 
 # Replacing NaN for empty string
 for key in MAGColumnTypes:
