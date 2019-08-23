@@ -6,7 +6,8 @@ conda activate /home/jovyan/ISSItutorial/conda
 conda install -c conda-forge wordcloud
 conda install -c conda-forge pandas
 conda install -c conda-forge matplotlib
-conda install -c conda-forge nltk 
+conda install -c conda-forge nltk
+conda install -c conda-forge ipykernel
 pip install python-igraph --user
 pip show python-igraph
 cp -r ~/.local/lib/python3.7 ~/ISSItutorial/local/lib/python3.7
